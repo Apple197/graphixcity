@@ -1,6 +1,6 @@
-<?php
 <html>
 <head>
+ <title> We're developing this website </title>
 <style>
 *{
 margin: 0;
@@ -36,4 +36,3 @@ text-align: center;
  <div>
 </body>
 </html>
-?>
